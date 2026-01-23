@@ -213,6 +213,17 @@ For detailed technical documentation, see `Hybrid_Energy_Profiler_Complete_Docum
 
 For issues and questions, please open an issue on GitHub.
 
+## 👨‍💻 Author
+
+**Muhammad Asif Khan**
+
+- 🎓 Data Science student at Institute of Management Sciences, Peshawar
+- 💻 Experienced in Web Development, Mobile App Development, and Machine Learning
+- 📧 Email: [asifcalm53@gmail.com](mailto:asifcalm53@gmail.com)
+- 🔗 GitHub: [@muhammad-asifkhan](https://github.com/muhammad-asifkhan)
+- 💼 LinkedIn: [Muhammad Asif Khan](https://www.linkedin.com/in/muhammad-asif-khan-334a37260/)
+- 📍 Based in Peshawar, Pakistan
+
 ---
 
 **Made with ⚡ for Linux system administrators and researchers**
