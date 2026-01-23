@@ -1,0 +1,48 @@
+{
+  "collection": {
+    "interval": 5.0,
+    "min_cpu": 0.0,
+    "min_memory": 0.0,
+    "max_processes": 1000
+  },
+  "energy_model": {
+    "weights": {
+      "cpu": 0.6,
+      "io": 0.3,
+      "memory": 0.1,
+      "context_switches": 0.2,
+      "syscalls": 0.1
+    },
+    "adaptive": true
+  },
+  "dashboard": {
+    "host": "0.0.0.0",
+    "port": 5000,
+    "debug": false,
+    "auto_refresh_interval": 5
+  },
+  "storage": {
+    "enabled": true,
+    "db_path": "data/metrics.db",
+    "retention_days": 30
+  },
+  "logging": {
+    "level": "INFO",
+    "log_dir": "logs",
+    "max_file_size_mb": 10,
+    "backup_count": 5,
+    "console_output": true
+  },
+  "security": {
+    "require_auth": false,
+    "api_rate_limit": 100,
+    "allowed_hosts": ["*"],
+    "secret_key": null,
+    "users": {}
+  },
+  "output": {
+    "exports_dir": "output/exports",
+    "graphs_dir": "output/graphs",
+    "data_dir": "data"
+  }
+}
